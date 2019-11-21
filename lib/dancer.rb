@@ -15,4 +15,3 @@ class Dancer
     @name = name
   end
 end
-© 2019 GitHub, Inc.
