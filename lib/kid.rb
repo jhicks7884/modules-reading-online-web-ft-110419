@@ -5,7 +5,6 @@ class Kid
   extend FancyDance::ClassMethods
   include FancyDance::InstanceMethods
 end
-
 class Kid
   include Dance
 
@@ -14,4 +13,3 @@ class Kid
   def initialize(name)
     @name = name
   end
-end
